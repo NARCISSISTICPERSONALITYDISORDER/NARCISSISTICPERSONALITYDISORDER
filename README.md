@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thanossu&color=8a875e&style=for-the-badge&label=+スケアリーモンスターズ+&abbreviated=true" />⠀⠀
+  <img src="https://komarev.com/ghpvc/?username=thanossu&color=8a875e&style=for-the-badge&label=+🪨+&abbreviated=true" />⠀⠀
 </p>
 
 <p align="center">

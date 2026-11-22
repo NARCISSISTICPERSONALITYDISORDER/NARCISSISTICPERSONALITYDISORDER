@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thanossu&color=000000&style=for-the-badge&label=+⠀+⠀+i+⠀+have+⠀+to+⠀+finish+⠀+what+⠀+i+⠀+started.+⠀+&abbreviated=true" />⠀
+  <img src="https://komarev.com/ghpvc/?username=thanossu&color=8a875e&style=for-the-badge&label=+スケアリーモンスターズ+&abbreviated=true" />⠀⠀
+</p>
+
 <p align="center">
-  <img src="https://file.garden/aSATqW7wGDOKPZEO/Untitled1834_20260810100329.png" align="right" width="350" /></p>
+  <img src="https://file.garden/aSATqW7wGDOKPZEO/Untitled2005_20261122091131%20(1).png" align="right" width="350" />
+</p>
 
 
 
@@ -11,9 +14,9 @@
 
 
 
- ㅤ
+ㅤ
 
- 
+ㅤ
 
 
  
@@ -22,13 +25,13 @@
 
 
 
- ㅤ
- 
-$$ \color{#0d42ce}{\text{𝕁ohn𓏻⠀ 𝓐𝓷dre𓏻⠀ or⠀ Bro𝘰𝘬i𝚎}} $$
+ㅤ
+
+$$ \color{#605221}{\text{𝕁ohn𓏻⠀ 𝓐𝓷dre𓏻⠀ or⠀ Bro𝘰𝘬i𝚎}} $$
 <br>
-$$ \color{#0d42ce}{\text{Qui̲e̲t̲/Awk⠀ ⠀ ██⠀ C+H⠀ enc̳}} $$ 
+$$ \color{#604428}{\text{Qui̲e̲t̲/Awk⠀ ⠀ ██⠀ C+H⠀ enc̳}} $$
 <br>
-$$ \color{#0d42ce}{\text{𝄃𝄃𝄂⠀ 𝙳𝙽𝙸⠀ Zero Day,⠀ RaM,⠀ FAA⠀ uf/id}} $$ 
+$$ \color{#928664}{\text{𝄃𝄃𝄂⠀ 𝙳𝙽𝙸⠀ Zero Day,⠀ RaM,⠀ FAA⠀ uf/id}} $$
 <br>
 
 <div align="center">
@@ -37,16 +40,16 @@ $$ \color{#0d42ce}{\text{𝄃𝄃𝄂⠀ 𝙳𝙽𝙸⠀ Zero Day,⠀ RaM,⠀ FA
 
 </div>
 
-  
+&#x20; 
 
 <div align="center">
 
 <details>
-<summary>$\color{#0d42ce}{\textsf{⠀ ⠀ ⠀ ..ㅤ✝️}}$</summary>
+<summary>$$\color{#6f5945}{\textsf{⠀ ⠀ ⠀ ..ㅤ✝️}}$$</summary>
 
 <br>
 
-$${\color{#0d42ce}<3}$$ㅤ [*ponytowncosplayers](https://github.com/ponytowncosplayers)𓏻ㅤ [*FOLKTOWN](https://github.com/FOLKTOWN)𓏻ㅤ [*cosplaytown](https://github.com/cosplaytown)𓏻ㅤ [*paw-town](https://github.com/paw-town)𓏻ㅤ [*style-town](https://github.com/style-town)𓏻ㅤ [*character-town](https://github.com/character-town)𓏻ㅤ [*ponytown-yumes](https://github.com/ponytown-yumes)𓏻ㅤ [*ship-town](https://github.com/ship-town)
+$${\color{#605221}<3}$$ㅤ [*ponytowncosplayers](https://github.com/ponytowncosplayers)𓏻ㅤ [*FOLKTOWN](https://github.com/FOLKTOWN)𓏻ㅤ [*cosplaytown](https://github.com/cosplaytown)𓏻ㅤ [*paw-town](https://github.com/paw-town)𓏻ㅤ [*style-town](https://github.com/style-town)𓏻ㅤ [*character-town](https://github.com/character-town)𓏻ㅤ [*ponytown-yumes](https://github.com/ponytown-yumes)𓏻ㅤ [*ship-town](https://github.com/ship-town)
 
 </details>
 

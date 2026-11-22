@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thanossu&color=8a875e&style=for-the-badge&label=+🪨+&abbreviated=true" />⠀⠀
-</p>
-
 <p align="center">
-  <img src="https://file.garden/aSATqW7wGDOKPZEO/Untitled2005_20261122091131%20(1).png" align="right" width="350" />
+  <img src="https://file.garden/aSATqW7wGDOKPZEO/Untitled2005_20261122091131%20(1).png" align="right" width="548" />
 </p>
 
 
@@ -27,11 +25,11 @@
 
 ㅤ
 
-$$ \color{#605221}{\text{𝕁ohn𓏻⠀ 𝓐𝓷dre𓏻⠀ or⠀ Bro𝘰𝘬i𝚎}} $$
+$$ \color{#605221}{\text{𝐃𝐢ego𓏻⠀ 𝓐𝓷dre𓏻⠀ or⠀ 𝕁ohn}} $$
 <br>
 $$ \color{#604428}{\text{Qui̲e̲t̲/Awk⠀ ⠀ ██⠀ C+H⠀ enc̳}} $$
 <br>
-$$ \color{#928664}{\text{𝄃𝄃𝄂⠀ 𝙳𝙽𝙸⠀ Zero Day,⠀ RaM,⠀ FAA⠀ uf/id}} $$
+$$ \color{#928664}{\text{𝄃𝄃𝄂⠀ 𝙳𝙽𝙸⠀ Zero Day⠀ +⠀ FAA⠀ uf/id}} $$
 <br>
 
 <div align="center">
@@ -40,12 +38,12 @@ $$ \color{#928664}{\text{𝄃𝄃𝄂⠀ 𝙳𝙽𝙸⠀ Zero Day,⠀ RaM,⠀ FA
 
 </div>
 
-&#x20; 
+  
 
 <div align="center">
 
 <details>
-<summary>$$\color{#6f5945}{\textsf{⠀ ⠀ ⠀ ..ㅤ✝️}}$$</summary>
+<summary>$\color{#605221}{\textsf{⠀ ⠀ ⠀ ..ㅤ🦖}}$</summary>
 
 <br>
 
